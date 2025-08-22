@@ -10,3 +10,5 @@ shap
 streamlit
 plotly
 joblib
+streamlit-extras
+streamlit-toggle
